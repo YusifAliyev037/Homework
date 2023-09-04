@@ -1,0 +1,52 @@
+header {
+    background-color: #ccc;
+    padding: 24px;
+    margin-bottom: 16px;
+}
+body {
+    text-align: center;
+}
+.left {
+    background-color: #666;
+    padding: 20px;
+    float: left;
+    width: 30.7%;
+
+}
+.center{
+    background-color:#888;
+    padding: 20px ;
+    width: 30.7%;
+    float: left;
+}
+.right{
+    background-color: #666;
+    padding: 20px ;
+    float: right;
+    width: 30.7%;
+}
+.content{
+    background-color:#eee;
+    margin-top: 100px;
+    padding: 20px;
+    margin-bottom: 16px;
+   height: 200px;
+   
+}
+.profile{
+    background-color:#fff;
+    padding: 20px;
+    width: 200px;
+    height: 100px;
+    float: left;
+    margin-left: 14px;
+}
+.bio{
+    background-color:#6ea3da;
+    padding: 24px;
+    
+}
+footer {
+    padding: 24px;
+    background-color: #ccc;
+}
